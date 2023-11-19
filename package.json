@@ -7,5 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chrome-page-eval": "^1.3.0",
+    "docxtemplater": "^3.40.2",
+    "html-to-xlsx": "^2.2.4",
+    "jszip": "^3.10.1",
+    "mammoth": "^1.6.0",
+    "open-docxtemplater-image-module": "^1.0.3",
+    "pizzip": "^3.1.4",
+    "puppeteer": "^21.5.0",
+    "xlsx": "^0.18.5"
+  }
 }
